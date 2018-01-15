@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Upgrade</string>
+    <string name="NotFoundBooks">Please select a file at least</string>
+    <string name="NotFoundPath">The sd card is not available</string>
+    <string name="UpOneLevel">Up</string>
+    <string name="Selected">selected</string>
+    <string name="LItem">item</string>
+    <string name="Detail">detail</string>
+    <string name="FileSize">size : </string>
+    <string name="OutSize">Has reached the maximum number</string>
+    <string name="SelectAll">SelectAll</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="ChooseTip">Please select folders path</string>
+
+    <string name="file_parse_error">Upgrade file parse error</string>
+    <string name="no_can_upgrade">Meter does not support the upgrade</string>
+    <string name="upgrade_error">Upgrade error</string>
+</resources>
